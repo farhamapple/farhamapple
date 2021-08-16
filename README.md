@@ -13,16 +13,24 @@
 
 I'm FullStack developer from Indonesia, Indonesia
 <br />
-| *#AndroidDev* | PHP 🧡 &nbsp; | Python 💜  &nbsp; | Flutter 💙 &nbsp; | Writer ✍🏻 &nbsp; | Football 🎮 &nbsp; |
+| *#AndroidDev* | PHP 🧡 &nbsp; | Javascript 💜  &nbsp; | Flutter 💙 &nbsp; | Writer ✍🏻 &nbsp; | Football 🎮 &nbsp; |
 
 - 🏢 &nbsp; I'm currently working at Goverment Institute [LIPI](https://www.lipi.go.id)
-- 📖 &nbsp; I'm currently learning [Flutter](https://github.com/flutter/flutter)
+- 📖 &nbsp; I'm currently learning : 
+- [PHP](https://github.com/flutter/flutter), 
+- [Laravel](https://github.com/flutter/flutter), 
+- [React](https://github.com/flutter/flutter), 
+- [Vue](https://github.com/flutter/flutter),
+- [Docker Container](https://github.com/flutter/flutter) 
+- [Flutter](https://github.com/flutter/flutter)
 - ✍🏻 &nbsp; I'm enjoy sharing my experiences throught writing on Blog.
 
 **Languages**
 
 <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 </code> &nbsp;
+<code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</code> &nbsp; 
 <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
 </code> &nbsp; 
 <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
