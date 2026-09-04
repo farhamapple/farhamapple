@@ -1,67 +1,88 @@
-<h1 align="center">Hi there, I'm Farham Harvianto <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h1>
-<h3 align="center">Welcome to my world 👨🏻‍💻</h3>
+<h1 align="center">
+  Hi there, I'm Farham Harvianto 👋
+</h1>
+
+<h3 align="center">
+  Software Engineer · Full Stack Developer · Builder
+</h3>
 
 <p align="center">
-  <a href="https://t.me/Farhamcesc" target="_blank">
-    <img alt="Telegram" width="26px" src="https://raw.githubusercontent.com/CoderJava/CoderJava/288a09c88745944e9283060fb560630b37ac195b/assets/iconmonstr-telegram-4.svg" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/FarhamCesc" target="_blank">
-    <img alt="Twitter" width="26px" src="https://raw.githubusercontent.com/CoderJava/CoderJava/master/assets/iconmonstr-twitter-4.svg" />
-  </a>
+  🇮🇩 Indonesia &nbsp; • &nbsp; 👨🏻‍💻 Turning ideas into useful software
 </p>
 
 <p align="center">
-  Full Stack Developer from Indonesia 🇮🇩
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AndroidDev-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Writer-✍️-6c63ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Football-⚽-1f9d55?style=flat-square" />
+  <a href="https://www.linkedin.com/in/farham-harvianto-bab0b665/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/farhamcesc" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.threads.com/@farhamcesc" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑🏻‍💻 About Me
 
-- 🏢 &nbsp;Currently working at the government research institute **[LIPI](https://www.lipi.go.id)**
-- 📖 &nbsp;Currently learning / deepening my skills in:
-  - [PHP](https://www.php.net/)
-  - [Laravel](https://laravel.com/)
-  - [React](https://react.dev/)
-  - [Vue](https://vuejs.org/)
-  - [Docker](https://www.docker.com/)
-  - [Flutter](https://flutter.dev/)
-- ✍️ &nbsp;I enjoy sharing my experience through writing on my blog
-- ⚽ &nbsp;When I'm not coding, you'll probably find me playing football (or football games 🎮)
+I'm a **Software Engineer and Full Stack Developer from Indonesia** who enjoys building applications that solve real-world problems.
+
+I currently work in the **government research and innovation environment**, where I contribute to developing and maintaining digital solutions that support organizational processes, data, and research-related activities.
+
+My interests sit at the intersection of **software engineering, backend development, DevOps, and data-driven applications**. I enjoy turning business requirements into reliable, maintainable, and scalable software.
+
+I'm particularly interested in:
+
+* 🏗️ Designing and building **web applications & backend systems**
+* 🚀 Developing applications with **PHP, Laravel, and modern JavaScript**
+* 🗄️ Working with **PostgreSQL, MySQL, Redis, and other data technologies**
+* 🐳 Containerization, **Docker, CI/CD, and DevOps**
+* ☸️ Exploring **Kubernetes and cloud-native architecture**
+* 📱 Building cross-platform applications with **Flutter**
+* ✍️ Sharing knowledge, experiences, and lessons learned through writing
+* ⚽ Playing football whenever I'm away from the keyboard
+
+> **I believe good software is not just about writing code —
+> it's about understanding problems, designing the right solution, and building something that creates value.**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vuejs/vuejs.png" height="40" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="40" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,flutter,docker,postgres,mysql,redis,linux,git,github" />
+</p>
+
+### Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,kubernetes,kafka" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 💻 What I Do
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                   SOFTWARE ENGINEERING               │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  🧩 Web Development        → Laravel / PHP / JS      │
+│  ⚙️ Backend Engineering    → APIs / Services        │
+│  🗄️ Data & Database        → PostgreSQL / MySQL     │
+│  🐳 DevOps                 → Docker / CI/CD          │
+│  ☸️ Cloud Native           → Kubernetes             │
+│  📱 Mobile Development     → Flutter                │
+│  🧠 Continuous Learning    → New technologies       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Farhamcesc&show_icons=true&theme=tokyonight&count_private=true" />
@@ -74,15 +95,26 @@
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://t.me/Farhamcesc" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/farham-harvianto-bab0b665/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/FarhamCesc" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.instagram.com/farhamcesc" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.threads.com/@farhamcesc" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
 </p>
 
-<sub>*These stats are just for fun and don't reflect actual skill level 😄*</sub>
+---
+
+<p align="center">
+  <i>Code. Learn. Build. Share. Repeat. 🚀</i>
+</p>
+
+<p align="center">
+  <sub>These stats are just for fun and don't reflect actual skill level 😄</sub>
+</p>
